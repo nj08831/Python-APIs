@@ -1,7 +1,7 @@
 # Python-APIs
 Weather API Project
 
-Summary is located in the Weather_Summary.docx as well as within the .ibpy file
+Summary is located in the Weather_Summary.docx as well as within the .ipny file
 
 A Google Map of all the Cities was generated to show the random generation and location of the Cities around the Globe generated for this project analyses
 
