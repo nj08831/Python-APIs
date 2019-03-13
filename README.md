@@ -1,5 +1,6 @@
 # Python-APIs
 Weather API Project
+![Google Map of the Random Cities created for this analyses](WeatherPy2_Random_Cities_Google_Maps_View_12-20-2018.png)
 
 The summary overview is located in the WeatherPy2_Summary_Overview.docx as well as within the .ipny file
 
